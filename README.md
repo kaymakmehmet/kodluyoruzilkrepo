@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-![image](https://prnt.sc/RvMKlsSsRXLH)
+![image](https://www.hizliresim.com/nwtd2pd)
 
 bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor
 
